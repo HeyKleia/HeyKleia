@@ -1,5 +1,6 @@
 ### Hello! I'm Kleia --- new to coding but enjoying the ride!
 
+(https://github.com/HeyKleia/HeyKleia/blob/main/HeyKleia/Blob/nature-with-sky.png)
 <!--
 **HeyKleia/HeyKleia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
