@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! I'm Kleia --- new to coding but enjoying the ride!
 
 <!--
 **HeyKleia/HeyKleia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
