@@ -1,6 +1,9 @@
 ### Hello! I'm Kleia --- new to coding but enjoying the ride!
 
 ![HeyKleiaNaturePixelArt](https://github.com/HeyKleia/HeyKleia/blob/main/HeyKleia/Blob/nature-with-sky.png)
+
+I’m currently learning Python mainly for automating tasks.
+
 <!--
 **HeyKleia/HeyKleia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
