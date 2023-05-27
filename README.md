@@ -1,6 +1,6 @@
 # Hi. I'm Kleia.
 This is where I share my programming projects, including from my #100DaysofCode challenge.
-I'm new to computer languages but it's been a fun ride so far. Learning Python is more of a side-project while I am pursuing another field, but I'm excited to see where everything leads to.
+I'm new to computer languages but it's been a fun ride so far. Learning Python is more of a side-project while I am pursuing another field, but I'm excited to see where the journey takes me!
 
 ![HeyKleiaNaturePixelArt](https://github.com/HeyKleia/HeyKleia/blob/main/HeyKleia/Blob/nature-with-sky.png)
 <!--
